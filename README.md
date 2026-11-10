@@ -2,6 +2,10 @@
 
 Aplicación web hecha con Streamlit que permite explorar un conjunto de datos de anuncios de venta de coches (`vehicles_us.csv`).
 
+## Aplicación desplegada
+
+https://vehicles-project-dashboard.onrender.com
+
 ## Funcionalidad
 
 - **Histograma:** al marcar la casilla "Construir un histograma", se muestra la distribución del odómetro (kilometraje) de los vehículos.
